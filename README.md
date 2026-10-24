@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Terraform Projects**
 
-- 📫 How to reach me **daerco22@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
